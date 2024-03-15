@@ -104,10 +104,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Disable the theme picker, while i figure out how to do it properly */
-#navbar .icons {
+ #navbar .icons .dropdown {
     display: none !important; 
-}
-
-.navbar #navbar {
-    justify-content: space-between !important;
 }
