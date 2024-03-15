@@ -1,5 +1,5 @@
 ---
-_disableToc: true
+_layout: landing
 ---
 
 test asdf
