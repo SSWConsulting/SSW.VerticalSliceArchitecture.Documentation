@@ -33,7 +33,8 @@
       "_gitContribute": {
         "repo": "https://github.com/Hona/VerticalSliceArchitecture.Documentation",
         "branch": "main"
-      }
+      },
+      "_appFooter": "We ❤️ Open Source · Powered by <a href='https://github.com/dotnet/docfx' target='_blank'>docfx</a> · Built with  by <a href='https://lukeparker.dev' target='_blank'>Luke Parker</a> (<a href='https://github.com/Hona' target='_blank'>Hona</a>) · Contributions welcome on <a href='https://github.com/Hona/VerticalSliceArchitecture.Documentation' target='_blank'>GitHub</a>"
     },
     "disableGitFeatures": false
   }
