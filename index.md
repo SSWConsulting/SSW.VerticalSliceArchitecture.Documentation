@@ -21,7 +21,7 @@ This is the best place to [learn](/learn/) about Vertical Slice Architecture (VS
 
 This site is a new work in progress. If you have any feedback, please create a new [issue](https://github.com/Hona/VerticalSliceArchitecture.Documentation/issues) or [discussion](https://github.com/Hona/VerticalSliceArchitecture.Documentation/discussions).
 
-> [!CAUTION]
+> [!NOTE]
 > This is my personal opinion and not the only way to implement VSA. 
 >
 > While it's a living document & will evolve with the community, you might disagree with some of the content. 
