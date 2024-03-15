@@ -1,0 +1,109 @@
+:root {
+    /* Color Variables */
+    --bs-primary: #EF476F;
+    --bs-primary-rgb: 239,71,111;
+
+    --bs-secondary: #06D6A0;
+    --bs-secondary-rgb: 6,214,160;
+
+    --bs-tertiary: #FFD166;
+    --bs-tertiary-rgb: 255,209,102;
+
+    --bs-body-color: #FFFFFF;
+    --bs-body-color-rgb: 255,255,255;
+
+    --bs-body-bg: #192E39;
+    --bs-body-bg-rgb: 25,46,57;
+
+    --bs-secondary-bg: #26547C;
+    --bs-secondary-bg-rgb: 38,84,124;
+
+    --bs-tertiary-bg: #1E3B4A;
+    --bs-tertiary-bg-rgb: 30,59,74;
+
+    /* --bs-emphasis-color: #EF476F;
+    --bs-emphasis-color-rgb: 239,71,111; */
+    --bs-emphasis-color: var(--bs-tertiary);
+    --bs-emphasis-color-rgb: var(--bs-tertiary-rgb);
+
+    --bs-border-color: #26547C;
+    --bs-border-color-rgb: 38,84,124;
+
+    --bs-primary-bg-subtle: #26547C;
+    --bs-primary-border-subtle: #26547C;
+
+    --bs-success: #06D6A0;
+    --bs-success-rgb: 6,214,160;
+
+    --bs-danger: #EF476F;
+    --bs-danger-rgb: 239,71,111;
+
+    --bs-warning: #FFD166;
+    --bs-warning-rgb: 255,209,102;
+
+    --bs-info: #26547C;
+    --bs-info-rgb: 38,84,124;
+
+    --bs-light: #FFFFFF;
+    --bs-light-rgb: 255,255,255;
+
+    --bs-dark: #192E39;
+    --bs-dark-rgb: 25,46,57;
+
+    /* Typography Variables */
+    --bs-font-sans-serif: "Open Sans", sans-serif;
+    --bs-font-monospace: "JetBrains Mono", monospace;
+
+    /* Adding custom variables for text emphasis and borders */
+    --bs-primary-text-emphasis: #EF476F;
+    --bs-success-text-emphasis: #06D6A0;
+    --bs-danger-text-emphasis: #EF476F;
+    --bs-warning-text-emphasis: #FFD166;
+    --bs-info-text-emphasis: #26547C;
+    --bs-light-text-emphasis: #FFFFFF;
+    --bs-dark-text-emphasis: #192E39;
+
+    /* Links */
+    --bs-link-color: var(--bs-primary);
+    --bs-link-color-rgb: var(--bs-primary-rgb);
+    --bs-link-decoration: none;
+
+    --bs-link-hover-color: var(--bs-primary);
+    --bs-link-hover-color-rgb: var(--bs-primary-rgb);
+    --bs-link-hover-decoration: underline;
+
+    /* Custom */
+   
+}
+
+.navbar {
+    --bs-navbar-brand-color: #fff !important;
+    --bs-navbar-brand-hover-color: #fff !important;
+}
+
+body {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    font-family: var(--bs-font-sans-serif);
+}
+
+* {
+    font-family: var(--bs-font-sans-serif);
+}
+
+.hljs, .hljs * {
+    font-family: var(--bs-font-monospace);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--bs-font-monospace);
+}
+
+/* Disable the theme picker, while i figure out how to do it properly */
+#navbar .icons {
+    display: none !important; 
+}
+
+.navbar #navbar {
+    justify-content: space-between !important;
+}

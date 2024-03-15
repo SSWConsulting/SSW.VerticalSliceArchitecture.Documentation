@@ -1,0 +1,40 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.{md,yml}"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "output": "_site",
+    "template": [
+      "default",
+      "modern",
+      "honafx"
+    ],
+    "globalMetadata": {
+      "_appName": "Vertical Slice Architecture",
+      "_appTitle": "Vertical Slice Architecture",
+      "_enableSearch": true,
+      "pdf": false,
+      "_appLogoPath": "images/logo.svg",
+      "_appFaviconPath": "images/favicon.ico",
+      "_gitContribute": {
+        "repo": "https://github.com/Hona/VerticalSliceArchitecture.Documentation",
+        "branch": "main"
+      }
+    },
+    "disableGitFeatures": false
+  }
+}
