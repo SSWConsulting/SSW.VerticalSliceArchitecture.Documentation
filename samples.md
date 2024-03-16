@@ -2,4 +2,4 @@
 _layout: landing
 ---
 
-asdf asd fasdf asdf
+TODO: Add well-curated VSA applications that are open source.
