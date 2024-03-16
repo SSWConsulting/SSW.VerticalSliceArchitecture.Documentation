@@ -11,3 +11,25 @@ Additionally, it will demo how the theory can be applied via my [Vertical Slice 
 ## Contributing
 
 Contributions are absolutely welcome. Feel free to create an issue, discussion, or pull request.
+
+## Working locally
+
+The easiest way to get started is to run
+
+```bash
+docfx build --serve
+```
+
+However, when you're changing a lot, to see changes in realtime, its easier to use the hot reload script.
+
+First, install the dependencies:
+
+```bash
+npm install -D
+```
+
+Then run the hot reload (watch) script:
+
+```bash
+npm run watch
+```
