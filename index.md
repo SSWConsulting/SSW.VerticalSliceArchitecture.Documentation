@@ -5,10 +5,10 @@ title: Home
 
 # What is this?
 
-This is the best place to [learn](/learn/overview.html) about Vertical Slice Architecture (VSA).
+This is the best place to [learn](~/learn/overview.md) about Vertical Slice Architecture (VSA).
 
-- You can find [samples](/samples.html) of real apps that use VSA.
-- You can find curated external [media](/media.html)
+- You can find [samples](~/samples.md) of real apps that use VSA.
+- You can find curated external [media](~/media.md)
 
 The site is primarily a knowledge base for VSA, but the code examples are for .NET/C#, typically thinking about a Web API on the ASP.NET Core engine. This is done using a companion [VSA Template]() that I maintain. The template, importantly, should *not* be the starting point. It is a tool to bootstrap the theory learnt here.
 
