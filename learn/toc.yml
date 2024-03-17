@@ -2,5 +2,7 @@
   href: overview.md
 - name: Cookbook
   href: cookbook/toc.yml
+  expanded: true
 - name: Recipes
   href: recipes/toc.yml
+  expanded: true
