@@ -1,6 +1,7 @@
 ---
 _layout: landing
 title: Home
+description: "The best place to learn about Vertical Slice Architecture (VSA). Theory through a Cookbook, practical examples through Recipes and a .NET/C# template for convenience."
 ---
 
 # Vertical Slice Architecture
@@ -18,6 +19,8 @@ The most immediate difference between these two, is:
 
 This is the best place to [learn](~/learn/overview.md) about Vertical Slice Architecture (VSA).
 
+- There is a [cookbook](~/learn/cookbook/history.md) that provides the theory
+- There are [recipes](~/learn/recipes/quick-reference.md) that provide practical examples
 - You can find [samples](~/samples.md) of real apps that use VSA.
 - You can find curated external [media](~/media.md)
 
