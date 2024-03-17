@@ -1,0 +1,1 @@
+TODO: Write about how VSA is a different mindset, to that of Clean Architecture. Include the differences, but also the prescriptive list of 'VSA Thinking'

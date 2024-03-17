@@ -1,0 +1,1 @@
+TODO: Outline the pros and cons of VSA. Good use cases, bad use cases. Consider an Architecture decision tree?

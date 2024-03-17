@@ -1,0 +1,1 @@
+TODO: Introduce the history of VSA, as well as the history of architectures in general.
