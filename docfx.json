@@ -7,7 +7,8 @@
         ],
         "exclude": [
           "_site/**",
-          "node_modules/**"
+          "node_modules/**",
+          "README.md"
         ]
       }
     ],
@@ -37,6 +38,10 @@
       },
       "_appFooter": "We ❤️ Open Source · Powered by <a href='https://github.com/dotnet/docfx' target='_blank'>docfx</a> · Built & authored by <a href='https://lukeparker.dev' target='_blank'>Luke Parker</a> (<a href='https://github.com/Hona' target='_blank'>Hona</a>) · Contributions welcome on <a href='https://github.com/Hona/VerticalSliceArchitecture.Documentation' target='_blank'>GitHub</a>",
       "_googleAnalyticsTagId": "G-2LX1XZ6VYY"
+    },
+    "sitemap": {
+      "baseUrl": "https://verticalslicearchitecture.com",
+      "priority": 0.1
     },
     "disableGitFeatures": false
   }
