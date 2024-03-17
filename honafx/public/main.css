@@ -1,3 +1,6 @@
+/* JetBrains Mono & Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 :root {
     /* Color Variables */
     --bs-primary: #EF476F;
