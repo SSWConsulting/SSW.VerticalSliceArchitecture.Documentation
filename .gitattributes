@@ -1,0 +1,7 @@
+# Count markdown in the language statistics
+*.md linguist-documentation=false
+*.md linguist-detectable
+
+# Count YML in the language statistics
+*.yml linguist-documentation=false
+*.yml linguist-detectable
