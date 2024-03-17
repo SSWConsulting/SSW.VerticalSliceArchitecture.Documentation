@@ -1,2 +1,6 @@
 - name: Overview
   href: overview.md
+- name: Cookbook
+  href: cookbook/toc.yml
+- name: Recipes
+  href: recipes/toc.yml
