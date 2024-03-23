@@ -1,1 +1,1 @@
-TODO: This is where the rules of VSA go. This might become a subfolder with its own ToC.
+TODO: This is where the rules of VSA go - that are not specific. This might become a subfolder with its own ToC.

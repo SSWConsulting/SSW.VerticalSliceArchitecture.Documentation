@@ -19,6 +19,6 @@ This will cover:
 
 ## Recipes
 
-> The recipes are strictly practical guides, that are hands on. Beyond trivial examples that exist online, more difficult questions are yet to be documented well. This is the place to go for those.
+> The recipes are strictly practical guides, that are hands-on. Beyond trivial examples that exist online, more difficult questions are yet to be documented well. This is the place to go for those.
 
 This is the more hands on side of the site. It goes over common patterns you might encounter while implementing VSA. It will also cover how to implement these patterns at a conceptual & practical level (using the [VSA Template](https://github.com/Hona/VerticalSliceArchitecture) using C# on .NET 8 & ASP.NET Core)
